@@ -1,0 +1,28 @@
+Knowledge on
+  header files
+  library functions
+implementing: 
+  user-defined data types
+      -union
+      -struct
+basics of pointers 
+memory allocation methods
+Data types & their sizes
+operators:
+    -Arithmetic operators
+    -relational operators
+    -bitwise operators
+writing basic and intermediate programs(any language is ok but some comapnies ask to code in C only) 
+  -palindrome
+  -anagram
+  -reverse a number
+  -patterns
+  -matix multiplication
+  -array manipulation
+  -sum,min,max of array
+  -string operations:
+      -concatnation
+      -substr
+  -verbal programs(able to convert english logic to code)
+
+file operations(optional)
