@@ -1,0 +1,13 @@
+two types:
+  -NoSQL- No Structured query language : MongoDB
+  -SQL - Structured query language :DBMS
+types of Commands:
+  data definiton language:
+    create
+    drop
+    truncate
+  data manipulation language
+    insert
+    delete
+    alter
+    
