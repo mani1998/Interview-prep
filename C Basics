@@ -9,20 +9,34 @@ basics of pointers
 memory allocation methods
 Data types & their sizes
 operators:
-    -Arithmetic operators
+    -Arithmetic operators-
     -relational operators
     -bitwise operators
+    -assignment operators
 writing basic and intermediate programs(any language is ok but some comapnies ask to code in C only) 
-  -palindrome
+  -palindrome-1
   -anagram
-  -reverse a number
+  -reverse a number-1
   -patterns
+  -Interger overflows
+  -Amstrong number
   -matix multiplication
+  -2D arrays 
+  -swaping two numbers without third variable
   -array manipulation
-  -sum,min,max of array
+  -fibonacci num-iterative
+  -sum,min,max of array-1
+  -counting a frequency of alphabet in word/string
   -string operations:
       -concatnation
       -substr
+  -Recursion:
+    -fibinacci
+    -sub
+    -gcd
+    -lcm
+    -mul
+    -power
   -verbal programs(able to convert english logic to code)
 
 file operations(optional)
