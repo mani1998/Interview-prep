@@ -13,6 +13,9 @@ operators:
     -relational operators
     -bitwise operators
     -assignment operators
+type conversion:
+    -implicit
+    -explicit
 writing basic and intermediate programs(any language is ok but some comapnies ask to code in C only) 
   -palindrome-1
   -anagram
