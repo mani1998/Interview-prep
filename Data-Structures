@@ -1,4 +1,21 @@
 DataStructures-DS
-define datastructures
+define datastructures?
 why datastructures?
-types of data
+types of data structures
+linear DS
+  -stack
+  -queue
+  -array
+  -linked lists:
+      -single
+      -double 
+      -circular
+Non-linear
+  trees:
+      -trees
+      -binary trees
+      -binary search trees
+  graphs:
+      undirected 
+      directed
+      weighted
