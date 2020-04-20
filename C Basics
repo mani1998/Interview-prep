@@ -37,6 +37,7 @@ operators:
 type conversion:
     -implicit
     -explicit
+increment and decrement in detail
 writing basic and intermediate programs(any language is ok but some comapnies ask to code in C only) 
   -palindrome-1
   -anagram
@@ -62,5 +63,5 @@ writing basic and intermediate programs(any language is ok but some comapnies as
     -mul
     -power
   -verbal programs(able to convert english logic to code)
-a
+
 file operations(optional)
