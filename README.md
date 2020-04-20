@@ -6,4 +6,5 @@ Interview syllabus, topic wise
   <li>C Basics</li>
   <li>Data-Structures</li>
   <li>Databases</li>
+  <li><a href="https://github.com/mani1998/Interview-prep/blob/master/c-interview%20questions">Interview questions</a></li>
 </ol>
