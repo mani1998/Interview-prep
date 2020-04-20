@@ -1,12 +1,32 @@
 Knowledge on
   header files
   library functions
+conditional statements:
+  -if
+  -else if
+  -else
+control statements:
+  -break
+  -contiue
+  -goto
+switch statement
+loops:
+  -for 
+  -foreach
+  -while
+  -do while
+format specifiers:
+functionality of printf and scanf
+escape statements
 implementing: 
   user-defined data types
       -union
       -struct
 basics of pointers 
 memory allocation methods
+    -calloc
+    -malloc
+    Deallocate:free
 Data types & their sizes
 operators:
     -Arithmetic operators-
