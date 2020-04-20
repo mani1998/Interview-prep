@@ -28,6 +28,7 @@ memory allocation methods
     -malloc
     Deallocate:free
 Data types & their sizes
+pass by value and pass by reference
 operators:
     -Arithmetic operators-
     -relational operators
@@ -41,17 +42,17 @@ writing basic and intermediate programs(any language is ok but some comapnies as
   -anagram
   -reverse a number-1
   -patterns
-  -Interger overflows
+  -Interger overflows #c
   -Amstrong number
-  -matix multiplication
-  -2D arrays 
-  -swaping two numbers without third variable
+  -matix multiplication #c
+  -2D arrays #c
+  -swaping two numbers without third variable #c
   -array manipulation
   -fibonacci num-iterative
-  -sum,min,max of array-1
+  -sum,min,max of array-1 #c
   -counting a frequency of alphabet in word/string
   -string operations:
-      -concatnation
+      -concatnation 
       -substr
   -Recursion:
     -fibinacci
